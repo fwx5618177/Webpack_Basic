@@ -2,6 +2,7 @@
   "name": "webapck",
   "version": "1.0.0",
   "description": "start to learn webpack",
+  "homepage": "https://github.com/fwx5618177/Webpack_Basic.git",
   "scripts": {
     "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1",
