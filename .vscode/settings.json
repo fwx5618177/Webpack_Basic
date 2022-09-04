@@ -1,7 +1,4 @@
 {
-    "typescript.tsdk": "./node_modules/typescript/lib",
-    "volar.tsPlugin": true,
-    "volar.tsPluginStatus": false,
     "npm.packageManager": "pnpm",
     "editor.tabSize": 2,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -58,15 +55,6 @@
     "stylelint.validate": ["css", "less", "postcss", "scss", "vue", "sass"],
     "path-intellisense.mappings": {
       "/@/": "${workspaceRoot}/src"
-    },
-    "[javascriptreact]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescriptreact]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[html]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -136,8 +124,4 @@
       "pnpm",
       "antd"
     ],
-    "vetur.format.scriptInitialIndent": true,
-    "vetur.format.styleInitialIndent": true,
-    "vetur.validation.script": false
   }
-  
